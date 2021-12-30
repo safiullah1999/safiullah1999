@@ -12,5 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiullah1999&show_icons=true&locale=en&layout=compact" alt="safiullah1999" /></p>
 
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiullah1999&show_icons=true&locale=en" alt="safiullah1999" /></p>
