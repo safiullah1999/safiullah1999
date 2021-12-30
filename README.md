@@ -12,4 +12,4 @@
 <hr color="black">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiullah1999&show_icons=true&locale=en&layout=compact" alt="safiullah1999" /></p>
 
-<p>&nbsp;<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=safiullah1999&show_icons=true&locale=en" alt="safiullah1999" /></p>
+<p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=safiullah1999&show_icons=true&locale=en" alt="safiullah1999" /></p>
